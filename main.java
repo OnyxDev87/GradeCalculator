@@ -105,11 +105,3 @@ class main
         System.out.println("Overall grade: " + roundedGrade);
     }
 }
-//Grades to enter
-//75
-//99
-//80
-//100
-//89.2
-//98.1
-//87.58
